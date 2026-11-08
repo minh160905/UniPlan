@@ -191,19 +191,3 @@ Cho phép chia nhỏ một deadline lớn (như Đồ án / Bài tập lớn) th
    ```bash
    npm run preview
    ```
-
----
-
-## 🗺️ 6. Lộ Trình Phát Triển (Roadmap)
-
-- [ ] Tích hợp thông báo qua Email & Web Push Notification.
-- [ ] Đồng bộ 2 chiều với **Google Calendar** và **Outlook Calendar**.
-- [ ] Bổ sung Backend (Node.js/Express hoặc Firebase) để lưu trữ dữ liệu đám mây đa thiết bị.
-- [ ] Chức năng làm việc nhóm: Chia sẻ bài tập lớn và phân công thành viên.
-
----
-
-## 📄 Giấy Phép & Tác Giả
-
-- Dự án được phát triển bởi **[minh160905](https://github.com/minh160905)**.
-- Phát hành theo giấy phép **MIT License**. Mọi đóng góp (Pull Request, Issue) đều được hoan nghênh!
